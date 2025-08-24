@@ -8,7 +8,7 @@ import os
 
 # --- Configuration ---
 # Remember to put your secret API key here
-GOOGLE_API_KEY = ("AIzaSyCCGRI9rVtGui0j24QCcidUnSRQMlkwcIY")
+GOOGLE_API_KEY = ("ADD API HEAR")
 try:
     genai.configure(api_key=GOOGLE_API_KEY)
 except Exception as e:
